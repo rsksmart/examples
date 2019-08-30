@@ -1,0 +1,14 @@
+{
+  "name": "mingasprice",
+  "version": "1.0.0",
+  "description": "Code example",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "alepc253",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "7.2.1",
+    "web3": "^1.0.0-beta.35"
+  }
+}
