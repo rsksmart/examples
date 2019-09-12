@@ -1,5 +1,3 @@
-# IT IS A SAMPLE CODE, DON'T USE IT IN PRODUCTION
-
 ## Nethereum Sample
 Sample .NET Project using Nethereum to connect to a local RSK regtest node.
 
